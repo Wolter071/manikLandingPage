@@ -111,3 +111,4 @@ h3{font-size:1.4rem}
   .reveal{opacity:1;transform:none;transition:none}
   *{animation:none!important}
 }
+.about__img{margin-top:28px;border-radius:var(--r);aspect-ratio:3/2;object-fit:cover;width:100%}
